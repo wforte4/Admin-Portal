@@ -1,0 +1,26 @@
+{
+    "navigationTitle": "Uplink Work",
+    "accentColor": "rgba(44, 92, 214, 1)",
+    "fontDefaultColor" : "rgba(21,34,20,1)",
+    "defaultFontType": "Lato",
+    "backgroundDefault": "rgba(255, 255, 255, 1)",
+    "footerBackground": "rgba(70, 70, 70, 1)",
+    "paths": [
+        {
+            "name": "Home",
+            "url": "/"
+        },
+        {
+            "name": "ImageUploader",
+            "url": "/imageuploader"
+        },
+        {
+            "name": "My Server",
+            "url": "/golang"
+        },
+        {
+            "name": "Home",
+            "url": "/"
+        }
+    ]
+}
